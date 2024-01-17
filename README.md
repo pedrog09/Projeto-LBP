@@ -1,0 +1,1 @@
+Implementação do trabalho de densenvolvimento da cadeira de Laboratório de programação, no qual consiste em implementar o metodo LBP para reconhecimento de dois tipos de cânceres e gerando um histograma com a classificação de cada imagem com seu respectivo câncer a partir do 0 ou 1 colocado no histograma.
